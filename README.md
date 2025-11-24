@@ -44,6 +44,6 @@ This project is implemented as a single Python script (`codes.py`) with no exter
 
 Testing should focus on verifying the **Reliability** and **Error Handling Strategy** (Non-Functional Requirements) of the application's core logic.
 
-1.  **Test for Zero Errors (Accuracy Check):**
-    * Start the test and **copy and paste the entire test text exactly**.
-    *
+ **Test for Zero Errors (Accuracy)
+ 
+    
